@@ -1,0 +1,29 @@
+.main{
+    background-image: url(green.webp);
+    background-image: no-repeat;
+}
+.activities{
+    color: white;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.cam{
+    color: white;
+    margin-left: 50%;
+    
+}
+.gmail{
+    color: white;
+    margin-left: 70%;
+    display: flex;
+
+}
+.icons{
+    margin-left: 5%;
+}
+.icon{
+    margin-bottom:15%;
+    display:inline-flex;
+    margin-left:40%;
+}
+
